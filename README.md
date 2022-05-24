@@ -10,7 +10,7 @@
 # Sobre o projeto
 ## Este projeto é um CRUD desenvolvido em React, que consome uma API REST, para manipulação de dados de filmes.
  
-## <a href="https://internetdascoisascomesp.herokuapp.com">Acesse aqui a aplicação publicada no Netlify</a>.
+## <a href="">Acesse aqui a aplicação publicada no Netlify</a>.
 
 # Tecnologia utilizada
 
