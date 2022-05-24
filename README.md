@@ -1,7 +1,7 @@
 # Projeto "filmes", desenvolvido em React, com acesso a API REST. 
 
 ## Imagens da aplicação 
-<img src="" width="100%" height="100%"/>
+<img src="https://github.com/Adyson-Lima-Programador/filmes/blob/main/src/documentacao/appgif.gif" width="100%" height="100%"/>
 
 # Autor
 ## Adyson Lima. <a href="https://www.linkedin.com/in/adyson-lima-programador/">Meu LinkedIn<a>.
@@ -10,7 +10,7 @@
 # Sobre o projeto
 ## Este projeto é um CRUD desenvolvido em React, que consome uma API REST, para manipulação de dados de filmes.
  
-## <a href="">Acesse aqui a aplicação publicada no Netlify</a>.
+## <a href="https://filmereact.netlify.app/">Acesse aqui a aplicação publicada no Netlify</a>.
 
 # Tecnologia utilizada
 
